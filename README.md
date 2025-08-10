@@ -1,7 +1,3 @@
-<!-- Banner Principal -->
-<p align="center">
-  <img src="https://i.ibb.co/6JzvQnF/banner-pablo-lopez.png" alt="Pablo López Banner" width="100%">
-</p>
 
 <!-- Título animado con typing effect -->
 <h1 align="center">
