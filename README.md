@@ -1,10 +1,15 @@
 <!-- Banner compacto y elegante -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Título animado con typing effect -->
+<!-- Título animado con tipografía futurista -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Pablo+López.;El+pasado+muere%2C+los+recuerdos+quedan.;El+presente+se+vive+y+la+vida+sigue.;Programador+%7C+Diseñador+%7C+Manager+%7C+Marketing+%7C+Editor+%7C+Inversor+%7C+Empresario" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=48&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Hola,+soy+Pablo+L%C3%B3pez" alt="Typing Pablo López" />
 </h1>
+
+<!-- Subtítulo futurista -->
+<p align="center" style="color:#00FFF7; font-family: 'Orbitron', monospace; font-size: 20px; font-weight: 600; letter-spacing: 4px; margin-top: -20px;">
+  Programador &nbsp;&bull;&nbsp; Diseñador &nbsp;&bull;&nbsp; Manager &nbsp;&bull;&nbsp; Marketing &nbsp;&bull;&nbsp; Editor &nbsp;&bull;&nbsp; Inversor &nbsp;&bull;&nbsp; Empresario
+</p>
 
 <!-- Badges de contacto -->
 <p align="center">
