@@ -1,7 +1,4 @@
-<!-- Banner compacto y elegante -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=900&q=80" alt="Banner Futurista" width="900" style="border-radius: 15px; box-shadow: 0 0 30px #00FFF7;" />
-</p>
+
 
 <!-- Título animado con tipografía futurista -->
 <h1 align="center">
