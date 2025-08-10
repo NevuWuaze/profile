@@ -39,11 +39,11 @@ Combino creatividad y precisión técnica para transformar ideas en proyectos di
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Enlace |
-|----------|-------------|--------|
-| 🌐 **Portafolio Personal** | Presentación de mis habilidades y trabajos destacados. | [Ver Proyecto](https://pablocv.rf.gd) |
-| 🤖 **Bot para Choferes de Uber** | Herramienta inteligente para optimizar viajes y ganancias. | Privado |
-| 🛍 **E-commerce Minimalista** | Tienda online con experiencia de usuario premium. | En desarrollo |
+| 🚀 **Proyecto**               | 📋 **Descripción**                                                                 | 🔗 **Enlace**                                                                                       |
+|------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 🌐 **Portafolio Personal**    | Plataforma digital que exhibe mis habilidades y trabajos destacados con diseño responsivo y tecnología moderna. | [![Visitar](https://img.shields.io/badge/Visitar%20Portafolio-00FFF7?style=for-the-badge&logo=vercel&logoColor=black)](https://pablocv.rf.gd) |
+| 🤖 **Bot para Choferes de Uber** | Herramienta avanzada que ayuda a choferes a optimizar viajes, maximizando ganancias y eficiencia.                   | ![Privado](https://img.shields.io/badge/Privado-FF4B4B?style=for-the-badge&logo=lock&logoColor=white)                                    |
+| 🛍 **E-commerce Minimalista** | Tienda online con enfoque en UX/UI premium, ofreciendo una experiencia de compra simple, rápida y elegante.          | ![En desarrollo](https://img.shields.io/badge/En%20Desarrollo-FFD93B?style=for-the-badge&logo=progress&logoColor=black)                 |
 
 ---
 
