@@ -1,4 +1,7 @@
-
+<!-- Banner compacto y elegante -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=900&q=80" alt="Banner Futurista" width="900" style="border-radius: 15px; box-shadow: 0 0 30px #00FFF7;" />
+</p>
 
 <!-- Título animado con tipografía futurista -->
 <h1 align="center">
@@ -15,10 +18,10 @@
 ## <span style="color:#00FFF7; font-family:'Orbitron', monospace;">Sobre mí</span>
 
 <div align="center" style="background:#0F111A; border-radius: 20px; padding: 30px; max-width: 720px; margin: auto; box-shadow: 0 0 25px #00FFF7;">
-  <p style="color:#9CA3AF; font-family:'Audiowide', monospace; font-size: 16px; line-height: 1.7;">
+  <p style="color:#9CA3AF; font-family:'Audiowide', monospace; font-size: 16px; line-height: 1.7; letter-spacing: 1px;">
     Soy <strong style="color:#00FFF7;">Pablo López</strong>, creador digital multidisciplinario que fusiona <span style="color:#22FFD9;">tecnología</span>, <span style="color:#22FFD9;">diseño</span> y <span style="color:#22FFD9;">estrategia</span> para construir soluciones digitales futuristas.
   </p>
-  <p style="color:#00FFF7; font-style: italic; margin-top: 25px;">
+  <p style="color:#00FFF7; font-style: italic; margin-top: 25px; font-family:'Orbitron', monospace; font-size: 18px;">
     "El pasado muere, los recuerdos quedan, el presente se vive y la vida sigue."
   </p>
 </div>
@@ -35,29 +38,29 @@
 
 ## <span style="color:#00FFF7; font-family:'Orbitron', monospace;">Proyectos Destacados</span>
 
-<table align="center" style="max-width: 800px; width: 100%; border-collapse: separate; border-spacing: 0 20px;">
+<table align="center" style="max-width: 800px; width: 100%; border-collapse: separate; border-spacing: 0 20px; font-family:'Audiowide', monospace;">
   <thead>
-    <tr style="background:#00FFF7; color:#0F111A;">
-      <th style="padding: 15px; border-radius: 12px 0 0 12px;">Proyecto</th>
-      <th style="padding: 15px;">Descripción</th>
-      <th style="padding: 15px; border-radius: 0 12px 12px 0;">Enlace</th>
+    <tr style="background:#00FFF7; color:#0F111A; letter-spacing: 2px;">
+      <th style="padding: 18px 25px; border-radius: 12px 0 0 12px;">Proyecto</th>
+      <th style="padding: 18px 25px;">Descripción</th>
+      <th style="padding: 18px 25px; border-radius: 0 12px 12px 0;">Enlace</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="background:#151923; color:#A3A3A3;">
-      <td style="padding: 15px; color:#00FFF7;">Portafolio Personal</td>
-      <td style="padding: 15px;">Presentación profesional con diseño moderno y funcional.</td>
-      <td style="padding: 15px;"><a href="https://pablocv.rf.gd" target="_blank" style="color:#00FFF7;">Ver Proyecto</a></td>
+    <tr style="background:#151923; color:#A3A3A3; font-weight: 600;">
+      <td style="padding: 20px; color:#00FFF7;">Portafolio Personal</td>
+      <td style="padding: 20px;">Presentación profesional con diseño moderno y funcional.</td>
+      <td style="padding: 20px;"><a href="https://pablocv.rf.gd" target="_blank" style="color:#00FFF7; text-decoration: none; font-weight: 700;">Ver Proyecto</a></td>
     </tr>
-    <tr style="background:#0F111A; color:#A3A3A3;">
-      <td style="padding: 15px; color:#00FFF7;">Bot para Choferes de Uber</td>
-      <td style="padding: 15px;">Herramienta inteligente para optimizar viajes y ganancias.</td>
-      <td style="padding: 15px; font-style: italic; color:#6B7280;">Privado</td>
+    <tr style="background:#0F111A; color:#A3A3A3; font-weight: 600;">
+      <td style="padding: 20px; color:#00FFF7;">Bot para Choferes de Uber</td>
+      <td style="padding: 20px;">Herramienta inteligente para optimizar viajes y ganancias.</td>
+      <td style="padding: 20px; font-style: italic; color:#6B7280;">Privado</td>
     </tr>
-    <tr style="background:#151923; color:#A3A3A3;">
-      <td style="padding: 15px; color:#00FFF7;">E-commerce Minimalista</td>
-      <td style="padding: 15px;">Tienda online con experiencia premium y diseño futurista.</td>
-      <td style="padding: 15px; font-style: italic; color:#6B7280;">En desarrollo</td>
+    <tr style="background:#151923; color:#A3A3A3; font-weight: 600;">
+      <td style="padding: 20px; color:#00FFF7;">E-commerce Minimalista</td>
+      <td style="padding: 20px;">Tienda online con experiencia premium y diseño futurista.</td>
+      <td style="padding: 20px; font-style: italic; color:#6B7280;">En desarrollo</td>
     </tr>
   </tbody>
 </table>
@@ -79,15 +82,15 @@
 
 ## <span style="color:#00FFF7; font-family:'Orbitron', monospace;">Contacto</span>
 
-<p align="center">
-  <a href="https://pablocv.rf.gd" target="_blank" style="margin: 0 15px;">
+<p align="center" style="margin-top: 15px;">
+  <a href="https://pablocv.rf.gd" target="_blank" rel="noopener" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
-  <a href="mailto:nevuwuaze@gmail.com" target="_blank" style="margin: 0 15px;">
+  <a href="mailto:nevuwuaze@gmail.com" target="_blank" rel="noopener" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/pablocv" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/pablocv" target="_blank" rel="noopener" style="margin: 0 15px;">
+    <img src="https://camo.githubusercontent.com/86aa8417d062182bd346a130855d2d38d678526eb7bde5705f03f6fa723cfee8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d44756d366f266d617267696e2d773d3135266d617267696e2d683d3135266e6f2d62673d74727565266e6f2d6672616d653d74727565" alt="GitHub" style="height: 30px; filter: drop-shadow(0 0 8px #00FFF7);" />
   </a>
 </p>
 
