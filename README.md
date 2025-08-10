@@ -21,19 +21,26 @@
 ---
 
 ## 🖤 Sobre mí
-Soy **Pablo López**, un creador digital multidisciplinario con enfoque en **programación, diseño y estrategia de negocios**.  
-Combino creatividad y precisión técnica para transformar ideas en proyectos digitales con impacto.
 
-💼 **Rol actual:** Programador Full Stack + Diseñador UX/UI + Estratega de Marketing Digital.  
-🎯 **Objetivo:** Crear productos con una estética impecable y alto rendimiento.  
+Soy **Pablo López**, un creador digital multidisciplinario apasionado por la **innovación tecnológica**, el **diseño vanguardista** y la **estrategia de negocios**.  
+Mi enfoque combina creatividad, rigor técnico y visión estratégica para desarrollar proyectos digitales que no solo funcionan, sino que también inspiran y transforman experiencias.
+
+💼 **Roles actuales:**  
+- Programador Full Stack  
+- Diseñador UX/UI  
+- Estratega de Marketing Digital  
+- Manager de proyectos tecnológicos  
+
+🎯 **Mi misión:** Construir productos digitales con estética futurista, alto rendimiento y un impacto positivo en el usuario final.
 
 ---
 
 ## 🛠 Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,java,mysql,figma,photoshop,illustrator,git,github,wordpress,bootstrap,tailwind,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,java,c,cpp,csharp,ruby,go,swift,kotlin,mysql,postgres,redis,mongodb,docker,kubernetes,figma,photoshop,illustrator,git,github,linux,windows,macos,wordpress,bootstrap,tailwind,vscode,webpack,babel,graphql" />
 </p>
+
 
 ---
 
