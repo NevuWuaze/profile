@@ -19,27 +19,29 @@
 </p>
 
 ---
-
 ## 🖤 Sobre mí
 
-Soy **Pablo López**, un creador digital multidisciplinario apasionado por la **innovación tecnológica**, el **diseño vanguardista** y la **estrategia de negocios**.  
-Mi enfoque combina creatividad, rigor técnico y visión estratégica para desarrollar proyectos digitales que no solo funcionan, sino que también inspiran y transforman experiencias.
+<div align="center" style="font-family: 'Orbitron', monospace; color: #00FFF7; background: #0D1117; padding: 20px; border-radius: 12px; box-shadow: 0 0 15px #00FFF7;">
+  
+Soy **Pablo López**, un **creador digital multidisciplinario** navegando en la vanguardia del futuro tecnológico, diseño disruptivo y estrategia inteligente.  
+Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo ejecutan, sino que **redefinen experiencias digitales** con innovación y precisión milimétrica.
 
-💼 **Roles actuales:**  
-- Programador Full Stack  
-- Diseñador UX/UI  
-- Estratega de Marketing Digital  
-- Manager de proyectos tecnológicos  
+🚀 **Roles en mi órbita digital:**  
+- Arquitecto Full Stack de soluciones inteligentes  
+- Diseñador UX/UI con visión futurista y minimalista  
+- Estratega en marketing digital y crecimiento exponencial  
+- Líder en proyectos tecnológicos de impacto disruptivo  
 
-🎯 **Mi misión:** Construir productos digitales con estética futurista, alto rendimiento y un impacto positivo en el usuario final.
+🎯 **Misión:** Construir ecosistemas digitales que brillen con estética avanzada, rendimiento óptimo y generen conexiones humanas auténticas y significativas.
 
----
+</div>
 
 ## 🛠 Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,java,c,cpp,csharp,ruby,go,swift,kotlin,mysql,postgres,redis,mongodb,docker,kubernetes,figma,photoshop,illustrator,git,github,linux,windows,macos,wordpress,bootstrap,tailwind,vscode,webpack,babel,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,java,c,cpp,ruby,go,swift,kotlin,rust,dart,elixir,scala,mysql,postgres,redis,mongodb,docker,kubernetes,terraform,ansible,figma,photoshop,illustrator,git,github,linux,windows,macos,wordpress,bootstrap,tailwind,vscode,webpack,babel,graphql,firebase,jenkins" />
 </p>
+
 
 
 ---
