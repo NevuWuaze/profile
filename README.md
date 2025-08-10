@@ -50,16 +50,29 @@ Combino creatividad y precisión técnica para transformar ideas en proyectos di
 ## 📈 Estadísticas y Logros
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablocv&theme=dark&hide_border=true&stroke=00FFF7&background=0D1117&fire=00FFD1&ring=00FFF7&currStreakNum=00FFD1&sideNums=00FFF7&currStreakLabel=00FFD1&sideLabels=00FFF7&dates=6EE7B7" height="170" alt="GitHub Streak Stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pablocv&theme=dark&hide_border=true&stroke=0FFFC1&background=0B1220&fire=00FFD5&ring=0FFFC1&currStreakNum=00FFD5&sideNums=0FFFC1&currStreakLabel=00FFD5&sideLabels=0FFFC1&dates=38FFD6"
+    height="170"
+    alt="GitHub Streak Stats"
+  />
 </p>
+
 
 <p align="center" style="margin-top: 10px;">
   <img src="https://github-profile-trophy.vercel.app/?username=pablocv&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1" height="140" alt="GitHub Trophy Stats" />
 </p>
 
 <p align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablocv&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Estadísticas%20de%20GitHub" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocv&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pablocv&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Estadísticas%20de%20GitHub&title_color=00FFF7&icon_color=00FFD5&text_color=38FFD6&bg_color=0B1220"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocv&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=00FFF7&text_color=38FFD6&bg_color=0B1220"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
