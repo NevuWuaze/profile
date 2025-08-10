@@ -1,7 +1,5 @@
 <!-- Banner compacto y elegante -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=900&q=80" alt="Banner Futurista" width="900" style="border-radius: 15px; box-shadow: 0 0 30px #00FFF7;" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Título animado con tipografía futurista -->
 <h1 align="center">
@@ -99,3 +97,4 @@
 <footer align="center" style="padding: 20px 0; color:#00FFF7; font-family:'Orbitron', monospace; font-weight: 700; letter-spacing: 2px;">
   <p>"El pasado muere, los recuerdos quedan, el presente se vive y la vida sigue."</p>
 </footer>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
